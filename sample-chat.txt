@@ -1,0 +1,5 @@
+[10/03, 9:00] Ravi: Paid 1200 for petrol, split 4 ways
+[10/03, 9:40] Asha: Paid 600 for breakfast, split between Asha, Ravi and Dev
+[10/03, 14:10] Dev: I paid 2000 for the hotel, split all 4
+[10/04, 11:00] Meera: Paid 400 for tickets, split Meera and Asha only
+[10/04, 18:30] Ravi: Paid 900 for dinner, split 4 ways
