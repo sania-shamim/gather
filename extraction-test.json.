@@ -1,0 +1,7 @@
+[
+  { "payer": "Ravi", "amount": 1200, "split_between": ["Ravi", "Asha", "Dev", "Meera"] },
+  { "payer": "Asha", "amount": 600, "split_between": ["Asha", "Ravi", "Dev"] },
+  { "payer": "Dev", "amount": 2000, "split_between": ["Ravi", "Asha", "Dev", "Meera"] },
+  { "payer": "Meera", "amount": 400, "split_between": ["Meera", "Asha"] },
+  { "payer": "Ravi", "amount": 900, "split_between": ["Ravi", "Asha", "Dev", "Meera"] }
+]
