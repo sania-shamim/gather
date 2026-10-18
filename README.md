@@ -18,5 +18,5 @@ See [`sample-chat.txt`](sample-chat.txt) for a made-up 4-person trip, and [`expe
 
 - [x] Test data and expected result
 - [ ] Gemini expense extraction
-- [ ] Settlement algorithm
+- [x] Settlement algorithm
 - [ ] Web page and PDF export
