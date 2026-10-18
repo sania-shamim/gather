@@ -14,9 +14,6 @@ Group trips end in awkward money talk. Gather reads an exported group chat, find
 
 See [`sample-chat.txt`](sample-chat.txt) for a made-up 4-person trip, and [`expected-result.md`](expected-result.md) for the hand-calculated answer.
 
-## Status
+## Run it
 
-- [x] Test data and expected result
-- [ ] Gemini expense extraction
-- [x] Settlement algorithm
-- [ ] Web page and PDF export
+Set a `GEMINI_API_KEY` environment variable, install with `npm install @google/genai`, then run:
