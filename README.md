@@ -16,4 +16,11 @@ See [`sample-chat.txt`](sample-chat.txt) for a made-up 4-person trip, and [`expe
 
 ## Run it
 
-Set a `GEMINI_API_KEY` environment variable, install with `npm install @google/genai`, then run:
+Set a `GEMINI_API_KEY` environment variable, run `npm install @google/genai`, then run `node gather.js`.
+
+## Status
+
+- [x] Test data and expected result
+- [x] Gemini expense extraction
+- [x] Settlement algorithm
+- [ ] Web page and PDF export
