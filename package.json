@@ -1,0 +1,16 @@
+{
+  "name": "gather",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0"
+  }
+}
